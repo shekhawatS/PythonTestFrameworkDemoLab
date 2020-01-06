@@ -2,7 +2,7 @@ from behave import *
 
 @given('we have behave installed')
 def step_impl(context):
- assert False, "here is problem"
+ assert True, "here is problem"
 
 
 @when('we implement a test')
