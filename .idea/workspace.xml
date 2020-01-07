@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427578ad-357e-4f3b-84a1-95cb636a050b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="427578ad-357e-4f3b-84a1-95cb636a050b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,6 +149,7 @@
       <workItem from="1577193600329" duration="24000" />
       <workItem from="1578305637482" duration="58000" />
       <workItem from="1578317035511" duration="1538000" />
+      <workItem from="1578390225892" duration="4000" />
     </task>
     <servers />
   </component>
@@ -186,10 +185,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577193358728" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1578317035992">
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1578390226364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578317035992" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578390226364" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BDDFramework$StepsDefinition__1_.coverage" NAME="StepsDefinition (1) Coverage Results" MODIFIED="1577193329276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
