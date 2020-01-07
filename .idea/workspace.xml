@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427578ad-357e-4f3b-84a1-95cb636a050b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tox.ini" beforeDir="false" afterPath="$PROJECT_DIR$/tox.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +150,7 @@
       <workItem from="1577193322322" duration="37000" />
       <workItem from="1577193600329" duration="24000" />
       <workItem from="1578305637482" duration="58000" />
+      <workItem from="1578317035511" duration="1538000" />
     </task>
     <servers />
   </component>
