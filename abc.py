@@ -30,8 +30,11 @@ Some tutorials and examples to explore behave, a BDD test tool for Python.
 # SETUP:
 # -----------------------------------------------------------------------------
 setup(
-    name="behave tests",
-    version="1.0",
+    name="behave.example",
+    version="1.2.7",
+    url="https://github.com/behave/behave.example",
+    author="Jens Engel",
+    author_email="Jens_Engel@nowhere.net",
     license="BSD",
     description= description,
     keywords   = "utility",
@@ -46,6 +49,11 @@ setup(
         "parse>=1.8.2",
         "parse_type>=0.4.2",
         "six>=1.11.0",
+        # -- BEHAVE EXAMPLE DOCS REQUIRE:
+        # "Sphinx>=1.6,<2.0",
+        # "sphinx_bootstrap_theme >= 0.4.12",
+        # "sphinxcontrib-ansi",   # >= 0.6",
+        # "sphinxcontrib-programoutput >=0.8,<0.10.0",
     ],
     include_package_data= True,
     classifiers=[
@@ -70,4 +78,8 @@ setup(
         "Topic :: Education",
     ],
     zip_safe = True,
+    # -- PREPARED:
+    # cmdclass = {
+    #    "behave_test": behave_test,
+    # },
 )
