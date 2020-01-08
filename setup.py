@@ -25,7 +25,6 @@ from setuptools import find_packages, setup
 description = """\
 Some tutorials and examples to explore behave, a BDD test tool for Python.
 """
-
 # -----------------------------------------------------------------------------
 # SETUP:
 # -----------------------------------------------------------------------------
